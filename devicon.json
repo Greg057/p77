@@ -1,0 +1,7787 @@
+[
+  {
+    "name": "aarch64",
+    "altnames": [
+      "arm64"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "adonisjs",
+    "altnames": [
+      "adonis",
+      "adonis-framework",
+      "adonis-js",
+      "adonis.js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "aerospike",
+    "altnames": [
+      "aerospike-db",
+      "aerospike-database"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "aframe",
+    "altnames": [
+      "a-frame"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "aftereffects",
+    "altnames": [
+      "adobeaftereffects",
+      "ae",
+      "adobe-after-effects"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "akka",
+    "altnames": [
+      "akka-framework"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "algolia",
+    "altnames": [
+      "algolia-search"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "almalinux",
+    "altnames": [
+      "almalinux-os"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "alpinejs",
+    "altnames": [
+      "alpine",
+      "alpine-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "amazonwebservices",
+    "altnames": [
+      "aws",
+      "amazon-web-services",
+      "aws-sdk"
+    ],
+    "versions": {
+      "svg": [
+        "original-wordmark",
+        "plain-wordmark",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "anaconda",
+    "altnames": [
+      "anaconda-distribution",
+      "conda"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "android",
+    "altnames": [
+      "android-os",
+      "google-android"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "androidstudio",
+    "altnames": [
+      "android-studio"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "angular",
+    "altnames": [
+      "angularjs",
+      "ng",
+      "angular-framework",
+      "angular2",
+      "angular-2"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "angularjs",
+    "altnames": [
+      "angular",
+      "angular.js",
+      "angular-js",
+      "angular1",
+      "angular-1"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "angularmaterial",
+    "altnames": [
+      "angular-material",
+      "material-angular"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "ansible",
+    "altnames": [
+      "redhat-ansible",
+      "ansible-tower",
+      "ansible-playbook"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "ansys",
+    "altnames": [
+      "ansys-workbench"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "antdesign",
+    "altnames": [
+      "ant-design",
+      "antd"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "apache",
+    "altnames": [
+      "the-apache-software-foundation",
+      "apache-http-server",
+      "httpd"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "apacheairflow",
+    "altnames": [
+      "airflow",
+      "apache-airflow"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "apachekafka",
+    "altnames": [
+      "kafka",
+      "apache-kafka"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "apachespark",
+    "altnames": [
+      "spark",
+      "apache-spark"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "apex",
+    "altnames": [
+      "salesforce-apex",
+      "apex-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "apl",
+    "altnames": [
+      "a-programming-language"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "apollographql",
+    "altnames": [
+      "apollo",
+      "apollo-graphql",
+      "apollo-client",
+      "apollo-server"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "appcelerator",
+    "altnames": [
+      "appcelerator-titanium",
+      "titanium"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "apple",
+    "altnames": [
+      "macos",
+      "ios"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "appwrite",
+    "altnames": [
+      "appwrite-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "archlinux",
+    "altnames": [
+      "arch-linux",
+      "arch"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "arduino",
+    "altnames": [
+      "arduino-ide"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "argocd",
+    "altnames": [
+      "argo-cd",
+      "argo"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "artixlinux",
+    "altnames": [
+      "artix",
+      "artix-linux"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "astro",
+    "altnames": [
+      "astrojs",
+      "astro-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "atom",
+    "altnames": [
+      "atom-editor",
+      "github-atom"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "awk",
+    "altnames": [
+      "the-awk-programming-language"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "axios",
+    "altnames": [
+      "axios-js"
+    ],
+    "versions": {
+      "svg": [
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "azure",
+    "altnames": [
+      "microsoftazure",
+      "microsoft-azure",
+      "az"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "azuredevops",
+    "altnames": [
+      "azure-devops",
+      "azdo"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "azuresqldatabase",
+    "altnames": [
+      "azure-sql-database",
+      "azure-sql"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "babel",
+    "altnames": [
+      "babeljs",
+      "babel.js",
+      "babel-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "babylonjs",
+    "altnames": [
+      "babylon.js",
+      "babylon-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "backbonejs",
+    "altnames": [
+      "backbone",
+      "backbone.js",
+      "backbone-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "ballerina",
+    "altnames": [
+      "bal",
+      "ballerinalang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "bamboo",
+    "altnames": [
+      "atlassianbamboo",
+      "atlassian-bamboo"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "bash",
+    "altnames": [
+      "bourneagainshell",
+      "bourne-again-shell",
+      "sh"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "bazel",
+    "altnames": [
+      "google-bazel"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "beats",
+    "altnames": [
+      "elastic-beats",
+      "filebeat",
+      "metricbeat"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "behance",
+    "altnames": [
+      "adobe-behance"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "bevyengine",
+    "altnames": [
+      "bevy-engine",
+      "bevy"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "biome",
+    "altnames": [
+      "biomejs"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "bitbucket",
+    "altnames": [
+      "atlassianbitbucket",
+      "atlassian-bitbucket"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "blazor",
+    "altnames": [
+      "microsoft-blazor",
+      "asp-net-core-blazor"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "blender",
+    "altnames": [
+      "blender-3d"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "bootstrap",
+    "altnames": [
+      "bootstrap-5",
+      "bs5",
+      "getbootstrap",
+      "bs"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "bower",
+    "altnames": [
+      "bower-package-manager"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "browserstack",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "bulma",
+    "altnames": [
+      "bulmacss",
+      "bulma.css",
+      "bulma-css"
+    ],
+    "versions": {
+      "svg": [
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "bun",
+    "altnames": [
+      "bunjs",
+      "bun.js",
+      "bun-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "c",
+    "altnames": [
+      "c-lang",
+      "c-language"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "cairo",
+    "altnames": [
+      "cairographics",
+      "cairo-graphics"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "cakephp",
+    "altnames": [
+      "cake-php"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "canva",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "capacitor",
+    "altnames": [
+      "capacitorjs",
+      "capacitor-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "carbon",
+    "altnames": [
+      "carbon-language",
+      "carbon-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "cassandra",
+    "altnames": [
+      "apache-cassandra"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "centos",
+    "altnames": [
+      "centos-linux",
+      "centos-stream"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "ceylon",
+    "altnames": [
+      "eclipseceylon",
+      "ceylonlang",
+      "ceylon-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "chakraui",
+    "altnames": [
+      "chakra-ui"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "chartjs",
+    "altnames": [
+      "chart.js",
+      "chart-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "chrome",
+    "altnames": [
+      "googlechrome",
+      "google-chrome",
+      "chromium"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "circleci",
+    "altnames": [
+      "circle-ci"
+    ],
+    "versions": {
+      "svg": [
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "clarity",
+    "altnames": [
+      "clarity-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "clickhouse",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "clion",
+    "altnames": [
+      "jetbrains-clion"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "clojure",
+    "altnames": [
+      "clj"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "clojurescript",
+    "altnames": [
+      "cljs"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "cloudflare",
+    "altnames": [
+      "cf"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "cloudflareworkers",
+    "altnames": [
+      "cloudflare-workers",
+      "cf-workers"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "cloudrun",
+    "altnames": [
+      "cloud-run",
+      "google-cloud-run"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "cmake",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "cobol",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "codeac",
+    "altnames": [
+      "codeac.io"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "codecov",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "codeigniter",
+    "altnames": [
+      "code-igniter"
+    ],
+    "versions": {
+      "svg": [
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "codepen",
+    "altnames": [
+      "codepen-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "coffeescript",
+    "altnames": [
+      "coffee-script"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "composer",
+    "altnames": [
+      "php-composer",
+      "composer-php"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "confluence",
+    "altnames": [
+      "atlassianconfluence",
+      "atlassian-confluence"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "consul",
+    "altnames": [
+      "hashicorp-consul"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "contao",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "corejs",
+    "altnames": [
+      "core-js",
+      "core.js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "cosmosdb",
+    "altnames": [
+      "azurecosmosdb",
+      "azure-cosmos-db",
+      "cosmos-db"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "couchbase",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "couchdb",
+    "altnames": [
+      "apachecouchdb",
+      "apache-couchdb",
+      "couch-db"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "cpanel",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "cplusplus",
+    "altnames": [
+      "c++",
+      "cpp",
+      "c-plus-plus"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "crystal",
+    "altnames": [
+      "crystallang",
+      "crystal-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "csharp",
+    "altnames": [
+      "c#",
+      "c-sharp",
+      "cs"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "css3",
+    "altnames": [
+      "css"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "cucumber",
+    "altnames": [
+      "cucumber-js",
+      "cucumber-io"
+    ],
+    "versions": {
+      "svg": [
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "cypressio",
+    "altnames": [
+      "cypress",
+      "cypress.io",
+      "cypress-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "d3js",
+    "altnames": [
+      "d3",
+      "d3-js",
+      "d3.js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "dart",
+    "altnames": [
+      "googledart",
+      "google-dart",
+      "dartlang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "datadog",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "datagrip",
+    "altnames": [
+      "jetbrains-datagrip"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "dataspell",
+    "altnames": [
+      "jetbrains-dataspell"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "datatables",
+    "altnames": [
+      "datatables-net"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "dbeaver",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "debian",
+    "altnames": [
+      "debian-linux"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "delphi",
+    "altnames": [
+      "embarcadero",
+      "embarcadero-delphi"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "denojs",
+    "altnames": [
+      "deno",
+      "deno.js",
+      "deno-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "detaspace",
+    "altnames": [
+      "deta",
+      "deta-space"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "devicon",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "digitalocean",
+    "altnames": [
+      "digital-ocean",
+      "do"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "discloud",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "discordjs",
+    "altnames": [
+      "discord.js",
+      "discord-js",
+      "djs"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "django",
+    "altnames": [
+      "django-framework",
+      "python-django"
+    ],
+    "versions": {
+      "svg": [
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "djangorest",
+    "altnames": [
+      "django-rest-framework",
+      "drf"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line",
+        "original-wordmark",
+        "plain-wordmark",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "docker",
+    "altnames": [
+      "docker-ce",
+      "docker-ee"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "doctrine",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "dot-net",
+    "altnames": [
+      "dotnet",
+      ".net",
+      "dotnet-framework"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "dotnetcore",
+    "altnames": [
+      ".netcore",
+      "dotnet-core",
+      ".net-core"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "dovecot",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "dreamweaver",
+    "altnames": [
+      "adobe-dreamweaver"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "dropwizard",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "drupal",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "duckdb",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "dyalog",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "dynamodb",
+    "altnames": [
+      "aws-dynamodb",
+      "amazon-dynamodb"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "dynatrace",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "eclipse",
+    "altnames": [
+      "eclipse-ide",
+      "eclipse-jdt"
+    ],
+    "versions": {
+      "svg": [
+        "original-wordmark",
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "ecto",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "elasticsearch",
+    "altnames": [
+      "elastic-search"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "electron",
+    "altnames": [
+      "electronjs",
+      "electron-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "eleventy",
+    "altnames": [
+      "11ty"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "elixir",
+    "altnames": [
+      "elixirlang",
+      "elixir-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "elm",
+    "altnames": [
+      "elmlang",
+      "elm-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "emacs",
+    "altnames": [
+      "gnu-emacs"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "embeddedc",
+    "altnames": [
+      "embedded-c"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "ember",
+    "altnames": [
+      "ember.js",
+      "emberjs",
+      "ember-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "entityframeworkcore",
+    "altnames": [
+      "ef-core",
+      "entity-framework-core",
+      "efcore"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "envoy",
+    "altnames": [
+      "envoyproxy",
+      "envoy-proxy"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "erlang",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "eslint",
+    "altnames": [
+      "es-lint"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "expo",
+    "altnames": [
+      "expo-dev"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "express",
+    "altnames": [
+      "expressjs",
+      "express.js",
+      "express-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "facebook",
+    "altnames": [
+      "meta"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "fastapi",
+    "altnames": [
+      "fast-api",
+      "python-fastapi"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "fastify",
+    "altnames": [
+      "fastify-js",
+      "fastifyjs"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "faunadb",
+    "altnames": [
+      "fauna",
+      "fauna-db"
+    ],
+    "versions": {
+      "svg": [
+        "original-wordmark",
+        "original",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "feathersjs",
+    "altnames": [
+      "feathers-js",
+      "feathers"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "fedora",
+    "altnames": [
+      "fedora-linux"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "fiber",
+    "altnames": [
+      "gofiber",
+      "go-fiber"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "figma",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "filamentphp",
+    "altnames": [
+      "filament-php",
+      "filament"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "filezilla",
+    "altnames": [
+      "filezilla-ftp"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "firebase",
+    "altnames": [
+      "google-firebase"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "firebird",
+    "altnames": [
+      "firebirdsql"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "firefox",
+    "altnames": [
+      "mozillafirefox",
+      "mozilla-firefox",
+      "firefox-developer-edition"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "flask",
+    "altnames": [
+      "flask-framework",
+      "python-flask"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "flutter",
+    "altnames": [
+      "google-flutter"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "forgejo",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "fortran",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "foundation",
+    "altnames": [
+      "zurb-foundation"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "framermotion",
+    "altnames": [
+      "framer-motion",
+      "framer"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "framework7",
+    "altnames": [
+      "framework-7"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "fsharp",
+    "altnames": [
+      "f#",
+      "f-sharp"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "fusion",
+    "altnames": [
+      "autodesk-fusion",
+      "autodesk-fusion-360",
+      "fusion-360"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "gardener",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "gatling",
+    "altnames": [
+      "gatling-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "gatsby",
+    "altnames": [
+      "gatsbyjs",
+      "gatsby-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "gazebo",
+    "altnames": [
+      "gazebo-robot-simulator"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "gcc",
+    "altnames": [
+      "gnu-compiler-collection"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "gentoo",
+    "altnames": [
+      "gentoo-linux"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "ghost",
+    "altnames": [
+      "ghost-cms"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "gimp",
+    "altnames": [
+      "gnu-image-manipulation-program"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "git",
+    "altnames": [
+      "git-scm",
+      "git-vcs"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "gitbook",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "github",
+    "altnames": [
+      "git-hub"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "githubactions",
+    "altnames": [
+      "github-actions"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "githubcodespaces",
+    "altnames": [
+      "github-codespaces"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "gitkraken",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "gitlab",
+    "altnames": [
+      "gitlab-ci"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "gitpod",
+    "altnames": [
+      "gitpod-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "gitter",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "gleam",
+    "altnames": [
+      "gleam-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "glitch",
+    "altnames": [
+      "glitch-com"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "go",
+    "altnames": [
+      "golang",
+      "go-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "godot",
+    "altnames": [
+      "godot-engine"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "goland",
+    "altnames": [
+      "jetbrains-goland"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "google",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "googlecloud",
+    "altnames": [
+      "google-cloud",
+      "gcp",
+      "gcloud"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "googlecolab",
+    "altnames": [
+      "google-colaboratory",
+      "colab"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "gradle",
+    "altnames": [
+      "gradle-build-tool"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "grafana",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "grails",
+    "altnames": [
+      "grails-framework"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "graphql",
+    "altnames": [
+      "graph-ql"
+    ],
+    "versions": {
+      "svg": [
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "groovy",
+    "altnames": [
+      "groovylang",
+      "apachegroovy",
+      "apache-groovy"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "grpc",
+    "altnames": [
+      "grpcio",
+      "grpc-io",
+      "google-remote-procedure-call"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "grunt",
+    "altnames": [
+      "gruntjs",
+      "grunt-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "gulp",
+    "altnames": [
+      "gulpjs",
+      "gulp-js"
+    ],
+    "versions": {
+      "svg": [
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "hadoop",
+    "altnames": [
+      "apache-hadoop"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "handlebars",
+    "altnames": [
+      "handlebarsjs",
+      "handlebars.js",
+      "handlebars-js",
+      "hbs"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "harbor",
+    "altnames": [
+      "goharbor"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "hardhat",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "harvester",
+    "altnames": [
+      "harvesterhci",
+      "harvester-hci"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "haskell",
+    "altnames": [
+      "haskell-lang",
+      "hs"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "haxe",
+    "altnames": [
+      "haxe-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "helm",
+    "altnames": [
+      "kubernetes-helm"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "heroku",
+    "altnames": [
+      "heroku-platform"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "hibernate",
+    "altnames": [
+      "hibernate-orm"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "homebrew",
+    "altnames": [
+      "brew"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "hoppscotch",
+    "altnames": [
+      "hoppscotch-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "html5",
+    "altnames": [
+      "html"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "htmx",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "hugo",
+    "altnames": [
+      "gohugo",
+      "go-hugo"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "hyperv",
+    "altnames": [
+      "hyper-v",
+      "microsoft-hyper-v"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "ie10",
+    "altnames": [
+      "internetexplorer10",
+      "internet-explorer-10",
+      "ie"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "ifttt",
+    "altnames": [
+      "if-this-then-that"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "illustrator",
+    "altnames": [
+      "adobeillustrator",
+      "adobe-illustrator",
+      "ai"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "inertiajs",
+    "altnames": [
+      "inertia.js",
+      "inertia-js",
+      "inertia"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "influxdb",
+    "altnames": [
+      "influx-db"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "inkscape",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "insomnia",
+    "altnames": [
+      "insomnia-rest-client",
+      "insomnia-rest"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "intellij",
+    "altnames": [
+      "intellijidea",
+      "intellij-idea",
+      "jetbrains-intellij"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "ionic",
+    "altnames": [
+      "ionic-framework"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "jaegertracing",
+    "altnames": [
+      "jaeger"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "jamstack",
+    "altnames": [
+      "jam-stack"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "jasmine",
+    "altnames": [
+      "jasminejs",
+      "jasmine-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "java",
+    "altnames": [
+      "java-lang",
+      "jvm",
+      "openjdk",
+      "oracle-java"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "javascript",
+    "altnames": [
+      "js",
+      "ecmascript",
+      "java-script",
+      "es6",
+      "esnext"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "jeet",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "jekyll",
+    "altnames": [
+      "jekyll-rb"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "jenkins",
+    "altnames": [
+      "hudson"
+    ],
+    "versions": {
+      "svg": [
+        "line",
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "jest",
+    "altnames": [
+      "jestjs",
+      "jest.js",
+      "jest-js"
+    ],
+    "versions": {
+      "svg": [
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "jetbrains",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "jetpackcompose",
+    "altnames": [
+      "jetpack-compose",
+      "compose"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "jhipster",
+    "altnames": [
+      "j-hipster"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "jira",
+    "altnames": [
+      "atlassianjira",
+      "atlassian-jira"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "jiraalign",
+    "altnames": [
+      "jira-align"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "jquery",
+    "altnames": [
+      "jqueryjs",
+      "jquery.js",
+      "jquery-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "json",
+    "altnames": [
+      "javascript-object-notation"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "jule",
+    "altnames": [
+      "julelang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "julia",
+    "altnames": [
+      "julialang",
+      "julia-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "junit",
+    "altnames": [
+      "junit5",
+      "junit4"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "jupyter",
+    "altnames": [
+      "jupyternotebook",
+      "jupyter-notebook",
+      "ipython"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "k3os",
+    "altnames": [
+      "k3-os"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "k3s",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "k6",
+    "altnames": [
+      "k6-io"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "kaggle",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "kaldi",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "kalilinux",
+    "altnames": [
+      "kali",
+      "kali-linux"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "karatelabs",
+    "altnames": [
+      "karate"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "karma",
+    "altnames": [
+      "karmarunner",
+      "karmajs",
+      "karma-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "kdeneon",
+    "altnames": [
+      "kde-neon"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "keras",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "kibana",
+    "altnames": [
+      "elastic-kibana"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "knexjs",
+    "altnames": [
+      "knex-js",
+      "knex.js",
+      "knex"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "knockout",
+    "altnames": [
+      "knockoutjs",
+      "knockout-js"
+    ],
+    "versions": {
+      "svg": [
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "kotlin",
+    "altnames": [
+      "kotlinlang",
+      "kotlin-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "krakenjs",
+    "altnames": [
+      "kraken",
+      "kraken-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "ktor",
+    "altnames": [
+      "ktor-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "kubeflow",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "kubernetes",
+    "altnames": [
+      "k8s",
+      "kube",
+      "kubectl"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "labview",
+    "altnames": [
+      "labview-g"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "laminas",
+    "altnames": [
+      "laminas-project",
+      "zend-framework",
+      "zend"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "laravel",
+    "altnames": [
+      "laravel-php"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "laraveljetstream",
+    "altnames": [
+      "jetstream",
+      "laravel-jetstream"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "latex",
+    "altnames": [
+      "tex"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "leetcode",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line",
+        "original-wordmark",
+        "plain-wordmark",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "less",
+    "altnames": [
+      "lesscss",
+      "less-css"
+    ],
+    "versions": {
+      "svg": [
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "libgdx",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "linkedin",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "linux",
+    "altnames": [
+      "tux"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "linuxmint",
+    "altnames": [
+      "linux-mint"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "liquibase",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original-wordmark",
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "livewire",
+    "altnames": [
+      "laravel-livewire"
+    ],
+    "versions": {
+      "svg": [
+        "original-wordmark",
+        "original",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "llvm",
+    "altnames": [
+      "low-level-virtual-machine"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "lodash",
+    "altnames": [
+      "lodash-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "logstash",
+    "altnames": [
+      "elastic-logstash"
+    ],
+    "versions": {
+      "svg": [
+        "original-wordmark",
+        "original",
+        "plain-wordmark",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "love2d",
+    "altnames": [
+      "love",
+      "love-2d"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "lua",
+    "altnames": [
+      "lualang",
+      "lua-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "lumen",
+    "altnames": [
+      "laravel-lumen"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "magento",
+    "altnames": [
+      "adobe-commerce",
+      "adobe-magento"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "mapbox",
+    "altnames": [
+      "mapbox-gl-js"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "mariadb",
+    "altnames": [
+      "maria-db"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "markdown",
+    "altnames": [
+      "md"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "materializecss",
+    "altnames": [
+      "materialize",
+      "materialize-css"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "materialui",
+    "altnames": [
+      "mui",
+      "material-ui"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "matlab",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "matplotlib",
+    "altnames": [
+      "matplotlib-py"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "mattermost",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "maven",
+    "altnames": [
+      "apachemaven",
+      "mvn",
+      "apache-maven"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "maya",
+    "altnames": [
+      "autodesk-maya"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "memcached",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "mercurial",
+    "altnames": [
+      "hg"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "meteor",
+    "altnames": [
+      "meteorjs",
+      "meteor-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "microsoftsqlserver",
+    "altnames": [
+      "msql",
+      "mssql",
+      "microsoft-sql-server",
+      "sql-server"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "minitab",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "mithril",
+    "altnames": [
+      "mithril.js",
+      "mithril-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "mobx",
+    "altnames": [
+      "mobxjs",
+      "mobx-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "mocha",
+    "altnames": [
+      "mocha-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "modx",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "moleculer",
+    "altnames": [
+      "moleculerjs",
+      "moleculer.js",
+      "moleculer-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "mongodb",
+    "altnames": [
+      "mongo",
+      "mongo-db"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "mongoose",
+    "altnames": [
+      "mongoosejs",
+      "mongoose-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "monogame",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "moodle",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "msdos",
+    "altnames": [
+      "microsoft-disk-operating-system",
+      "dos"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "mysql",
+    "altnames": [
+      "my-sql"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "nano",
+    "altnames": [
+      "gnu-nano"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "nats",
+    "altnames": [
+      "nats-io",
+      "nats.io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "neo4j",
+    "altnames": [
+      "neo-4j"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "neovim",
+    "altnames": [
+      "nvim"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "nestjs",
+    "altnames": [
+      "nest-js",
+      "nest"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "netbeans",
+    "altnames": [
+      "apache-netbeans"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "netbox",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "netlify",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "networkx",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "newrelic",
+    "altnames": [
+      "new-relic"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "nextjs",
+    "altnames": [
+      "next.js",
+      "next-js",
+      "next"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "nginx",
+    "altnames": [
+      "engine-x"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "ngrok",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "ngrx",
+    "altnames": [
+      "ngrx-store"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "nhibernate",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original-wordmark",
+        "original",
+        "plain-wordmark",
+        "plain",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "nim",
+    "altnames": [
+      "nimlang",
+      "nim-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "nimble",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "nixos",
+    "altnames": [
+      "nix-os",
+      "nix"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "nodejs",
+    "altnames": [
+      "node.js",
+      "node",
+      "node-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "nodemon",
+    "altnames": [
+      "nodemonjs",
+      "nodemon-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "nodered",
+    "altnames": [
+      "node-red"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "nodewebkit",
+    "altnames": [
+      "nwjs",
+      "nw-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "nomad",
+    "altnames": [
+      "hashicorp-nomad"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "norg",
+    "altnames": [
+      "neorg"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "notion",
+    "altnames": [
+      "notion-so"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "npm",
+    "altnames": [
+      "npmjs",
+      "node-package-manager"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "npss",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "nuget",
+    "altnames": [
+      "nu-get"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "numpy",
+    "altnames": [
+      "numpy-py",
+      "numerical-python"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "nuxt",
+    "altnames": [
+      "nuxtjs",
+      "nuxt-js",
+      "nuxt.js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "nuxtjs",
+    "altnames": [
+      "nuxt",
+      "nuxt-js",
+      "nuxt.js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "oauth",
+    "altnames": [
+      "oauth2",
+      "oauth1"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "objectivec",
+    "altnames": [
+      "objective-c",
+      "obj-c",
+      "objc"
+    ],
+    "versions": {
+      "svg": [
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "ocaml",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "ohmyzsh",
+    "altnames": [
+      "omz",
+      "oh-my-zsh"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "okta",
+    "altnames": [
+      "okta-developer"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "openal",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "openapi",
+    "altnames": [
+      "open-api",
+      "swagger"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "opencl",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "opencv",
+    "altnames": [
+      "open-cv"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "opengl",
+    "altnames": [
+      "open-graphics-library"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "openstack",
+    "altnames": [
+      "open-stack"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "opensuse",
+    "altnames": [
+      "open-suse"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "opentelemetry",
+    "altnames": [
+      "otel"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "opera",
+    "altnames": [
+      "opera-browser"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "oracle",
+    "altnames": [
+      "oracledatabase",
+      "oracle-db"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "ory",
+    "altnames": [
+      "ory-sh"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "p5js",
+    "altnames": [
+      "p5.js",
+      "p5-js",
+      "p5"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "packer",
+    "altnames": [
+      "hashicorp-packer"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "pandas",
+    "altnames": [
+      "pandas-py",
+      "python-pandas"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "passport",
+    "altnames": [
+      "passportjs",
+      "passport-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "perl",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "pfsense",
+    "altnames": [
+      "pf-sense"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "phalcon",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "phoenix",
+    "altnames": [
+      "phoenix-framework",
+      "elixir-phoenix"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "photonengine",
+    "altnames": [
+      "photon-engine",
+      "photon"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "photoshop",
+    "altnames": [
+      "adobephotoshop",
+      "adobe-photoshop",
+      "ps"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "php",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "phpstorm",
+    "altnames": [
+      "jetbrains-phpstorm"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "pixijs",
+    "altnames": [
+      "pixi-js",
+      "pixi.js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "playwright",
+    "altnames": [
+      "microsoft-playwright"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "plotly",
+    "altnames": [
+      "plotly-js",
+      "plotly-py",
+      "plot.ly"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "pm2",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "pnpm",
+    "altnames": [
+      "performant-npm"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "podman",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "poetry",
+    "altnames": [
+      "python-poetry"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "polygon",
+    "altnames": [
+      "polygon-matic",
+      "matic"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "portainer",
+    "altnames": [
+      "portainer-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "postcss",
+    "altnames": [
+      "post-css"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "postgresql",
+    "altnames": [
+      "postgres",
+      "postgres-ql",
+      "pgsql"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "postman",
+    "altnames": [
+      "postman-api"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "powershell",
+    "altnames": [
+      "ps",
+      "pwsh"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "premierepro",
+    "altnames": [
+      "adobepremierepro",
+      "adobe-premiere-pro",
+      "pr",
+      "premiere"
+    ],
+    "versions": {
+      "svg": [
+        "plain",
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "primeng",
+    "altnames": [
+      "prime-ng"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "prisma",
+    "altnames": [
+      "prisma-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "processing",
+    "altnames": [
+      "processingpy",
+      "processing-py"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "processwire",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "prolog",
+    "altnames": [
+      "swi-prolog"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "prometheus",
+    "altnames": [
+      "prometheus-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "protractor",
+    "altnames": [
+      "protractorjs",
+      "protractor-test"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "proxmox",
+    "altnames": [
+      "proxmox-ve"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "pug",
+    "altnames": [
+      "pugjs",
+      "pug-js",
+      "jade"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "pulsar",
+    "altnames": [
+      "pulsar-edit",
+      "apache-pulsar"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "pulumi",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "puppeteer",
+    "altnames": [
+      "puppeteer-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "purescript",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "putty",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "pycharm",
+    "altnames": [
+      "jetbrains-pycharm"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "pypi",
+    "altnames": [
+      "python-package-index",
+      "pip"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "pyscript",
+    "altnames": [
+      "py-script"
+    ],
+    "versions": {
+      "svg": [
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "pytest",
+    "altnames": [
+      "py-test"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "python",
+    "altnames": [
+      "py",
+      "python-lang",
+      "python3"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "pytorch",
+    "altnames": [
+      "torch"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "qodana",
+    "altnames": [
+      "jetbrains-qodana"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "qt",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "qtest",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "quarkus",
+    "altnames": [
+      "quarkus-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "quasar",
+    "altnames": [
+      "quasar-framework"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "qwik",
+    "altnames": [
+      "qwik-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "r",
+    "altnames": [
+      "rlang",
+      "r-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "rabbitmq",
+    "altnames": [
+      "rabbit-mq"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "racket",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "radstudio",
+    "altnames": [
+      "rad-studio",
+      "embarcadero-rad-studio"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "rails",
+    "altnames": [
+      "rubyonrails",
+      "ruby-on-rails"
+    ],
+    "versions": {
+      "svg": [
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "railway",
+    "altnames": [
+      "railway-app"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "rancher",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "raspberrypi",
+    "altnames": [
+      "rpi",
+      "raspberry-pi"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "reach",
+    "altnames": [
+      "reach-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "react",
+    "altnames": [
+      "reactjs",
+      "react.js",
+      "react-js",
+      "react-dom"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "reactbootstrap",
+    "altnames": [
+      "react-bootstrap"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "reactnative",
+    "altnames": [
+      "react-native",
+      "rn"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "reactnavigation",
+    "altnames": [
+      "react-navigation"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "reactrouter",
+    "altnames": [
+      "react-router"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "readthedocs",
+    "altnames": [
+      "read-the-docs",
+      "rtd"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "realm",
+    "altnames": [
+      "mongodb-realm"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "rect",
+    "altnames": [
+      "rectlang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "redhat",
+    "altnames": [
+      "red-hat",
+      "rhel"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "redis",
+    "altnames": [
+      "remote-dictionary-server"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "redux",
+    "altnames": [
+      "reduxjs",
+      "redux.js",
+      "redux-js",
+      "redux-toolkit"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "reflex",
+    "altnames": [
+      "reflex-dev"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "remix",
+    "altnames": [
+      "remix-run",
+      "remixjs"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "renpy",
+    "altnames": [
+      "ren-py"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "replit",
+    "altnames": [
+      "replit-com",
+      "repl-it"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "rexx",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "rider",
+    "altnames": [
+      "jetbrains-rider"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "rocksdb",
+    "altnames": [
+      "rocks-db"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "rockylinux",
+    "altnames": [
+      "rocky",
+      "rocky-linux"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "rollup",
+    "altnames": [
+      "rollupjs",
+      "rollup.js",
+      "rollup-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "ros",
+    "altnames": [
+      "robot-operating-system"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "rspec",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "rstudio",
+    "altnames": [
+      "r-studio",
+      "posit"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "ruby",
+    "altnames": [
+      "rubylang",
+      "ruby-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "rubymine",
+    "altnames": [
+      "jetbrains-rubymine"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "rust",
+    "altnames": [
+      "rustlang",
+      "rust-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "rxjs",
+    "altnames": [
+      "reactive-extensions-for-javascript",
+      "rxjs-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "safari",
+    "altnames": [
+      "applesafari",
+      "apple-safari"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line-wordmark",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "salesforce",
+    "altnames": [
+      "sf",
+      "sfdc"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "sanity",
+    "altnames": [
+      "sanity-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "sass",
+    "altnames": [
+      "scss"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "scala",
+    "altnames": [
+      "scalalang",
+      "scala-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "scalingo",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "scikitlearn",
+    "altnames": [
+      "scikit-learn",
+      "scikit",
+      "sklearn"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "sdl",
+    "altnames": [
+      "simple-directmedia-layer"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "selenium",
+    "altnames": [
+      "selenium-webdriver"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "sema",
+    "altnames": [
+      "sema-software"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "sentry",
+    "altnames": [
+      "sentry-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "sequelize",
+    "altnames": [
+      "sequelizejs",
+      "sequelize-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "shopware",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "shotgrid",
+    "altnames": [
+      "autodesk-shotgrid"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "sketch",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "slack",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "socketio",
+    "altnames": [
+      "socket-io",
+      "socket.io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "solidity",
+    "altnames": [
+      "soliditylang",
+      "solidity-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "solidjs",
+    "altnames": [
+      "solid-js",
+      "solid"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "sonarqube",
+    "altnames": [
+      "sonar"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "sourceengine",
+    "altnames": [
+      "source-engine"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "sourcetree",
+    "altnames": [
+      "atlassian-sourcetree"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "spack",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "spicedb",
+    "altnames": [
+      "spice-db"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "splunk",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "spring",
+    "altnames": [
+      "springframework",
+      "spring-framework",
+      "spring-boot",
+      "spring-mvc"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "spss",
+    "altnames": [
+      "ibm-spss"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "spyder",
+    "altnames": [
+      "spyder-ide"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "sqlalchemy",
+    "altnames": [
+      "sql-alchemy"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "sqldeveloper",
+    "altnames": [
+      "oracle-sql-developer"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "sqlite",
+    "altnames": [
+      "sql-lite"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "ssh",
+    "altnames": [
+      "secure-shell"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "stackblitz",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "stackoverflow",
+    "altnames": [
+      "stack-overflow"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "stata",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "stenciljs",
+    "altnames": [
+      "stencil",
+      "stencil-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "storybook",
+    "altnames": [
+      "storybookjs",
+      "storybook-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "streamlit",
+    "altnames": [
+      "streamlit-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "styledcomponents",
+    "altnames": [
+      "styled-components"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "stylus",
+    "altnames": [
+      "styluslang",
+      "stylus-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "subversion",
+    "altnames": [
+      "apachesubversion",
+      "svn"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "sulu",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "supabase",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "surrealdb",
+    "altnames": [
+      "surreal-db"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "svelte",
+    "altnames": [
+      "sveltejs",
+      "svelte-kit",
+      "svelte-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "svgo",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "swagger",
+    "altnames": [
+      "swagger-ui",
+      "openapi"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "swift",
+    "altnames": [
+      "swift-lang",
+      "apple-swift"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "swiper",
+    "altnames": [
+      "swiperjs"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "symfony",
+    "altnames": [
+      "symfony-php",
+      "symfony-framework"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "tailwindcss",
+    "altnames": [
+      "tailwind-css",
+      "tailwind"
+    ],
+    "versions": {
+      "svg": [
+        "original-wordmark",
+        "original",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "talos",
+    "altnames": [
+      "talos-systems"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "tauri",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "teleport",
+    "altnames": [
+      "goteleport"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "tensorflow",
+    "altnames": [
+      "tf",
+      "google-tensorflow"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "terraform",
+    "altnames": [
+      "hashicorp-terraform",
+      "tf"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "terramate",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "tex",
+    "altnames": [
+      "tex-live",
+      "latex"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "thealgorithms",
+    "altnames": [
+      "the-algorithms"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "threedsmax",
+    "altnames": [
+      "autodesk-3ds-max",
+      "3dsmax",
+      "3ds-max"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "threejs",
+    "altnames": [
+      "three-js",
+      "three.js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "thymeleaf",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "titaniumsdk",
+    "altnames": [
+      "titanium-sdk",
+      "titanium"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "tmux",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "tomcat",
+    "altnames": [
+      "apache-tomcat"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "tortoisegit",
+    "altnames": [
+      "tortoise-git"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "towergit",
+    "altnames": [
+      "tower-git",
+      "tower"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "traefikmesh",
+    "altnames": [
+      "traefik-mesh"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "traefikproxy",
+    "altnames": [
+      "traefik"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "travis",
+    "altnames": [
+      "travisci",
+      "travis-ci"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "trello",
+    "altnames": [
+      "atlassiantrello",
+      "atlassian-trello"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "trpc",
+    "altnames": [
+      "typescript-remote-procedure-call",
+      "trpc-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "turbo",
+    "altnames": [
+      "turborepo",
+      "turbopack"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "twilio",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "twitter",
+    "altnames": [
+      "x"
+    ],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "typescript",
+    "altnames": [
+      "ts",
+      "type-script",
+      "ts-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "typo3",
+    "altnames": [
+      "typo-3"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "ubuntu",
+    "altnames": [
+      "ubuntu-linux"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "unifiedmodelinglanguage",
+    "altnames": [
+      "uml",
+      "unified-modeling-language"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "unity",
+    "altnames": [
+      "unity-3d",
+      "unity-engine"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "unix",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "unrealengine",
+    "altnames": [
+      "unreal-engine",
+      "ue",
+      "ue5"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "uwsgi",
+    "altnames": [
+      "u-wsgi"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "v8",
+    "altnames": [
+      "v8-engine",
+      "v8-javascript-engine"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "vaadin",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "vagrant",
+    "altnames": [
+      "hashicorp-vagrant"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "vala",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "vault",
+    "altnames": [
+      "hashicorp-vault"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "veevalidate",
+    "altnames": [
+      "vee-validate"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "vercel",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "vertx",
+    "altnames": [
+      "eclipse-vertx",
+      "vert-x"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "vim",
+    "altnames": [
+      "vi-improved",
+      "vi"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "visualbasic",
+    "altnames": [
+      "vb",
+      "vb.net",
+      "vb-net"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "visualstudio",
+    "altnames": [
+      "vs",
+      "ms-visual-studio",
+      "visual-studio"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "vite",
+    "altnames": [
+      "vitejs",
+      "vite-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "vitejs",
+    "altnames": [
+      "vite.js",
+      "vite",
+      "vite-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "vitess",
+    "altnames": [
+      "vitess-io"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "vitest",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "vscode",
+    "altnames": [
+      "visualstudiocode",
+      "vs-code",
+      "visual-studio-code",
+      "code"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "vscodium",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "vsphere",
+    "altnames": [
+      "vmware-vsphere"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "vuejs",
+    "altnames": [
+      "vue.js",
+      "vue",
+      "vue-js",
+      "vue3"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "vuestorefront",
+    "altnames": [
+      "vue-storefront"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "vuetify",
+    "altnames": [
+      "vuetify-js",
+      "vuetify.js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "vulkan",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "vyper",
+    "altnames": [
+      "vyperlang",
+      "vyper-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "waku",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "wasm",
+    "altnames": [
+      "webassembly"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "web3js",
+    "altnames": [
+      "web3.js",
+      "web3-js",
+      "web3"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "webflow",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original"
+      ]
+    }
+  },
+  {
+    "name": "webgpu",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "weblate",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "webpack",
+    "altnames": [
+      "webpackjs",
+      "webpack.js",
+      "webpack-js"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "webstorm",
+    "altnames": [
+      "jetbrains-webstorm"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "windows11",
+    "altnames": [
+      "windows-11",
+      "win11"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "windows8",
+    "altnames": [
+      "windows-8",
+      "win8"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "wolfram",
+    "altnames": [
+      "wolframlanguage",
+      "wolfram-language",
+      "wolfram-mathematica"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "woocommerce",
+    "altnames": [
+      "woo-commerce"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "wordpress",
+    "altnames": [
+      "wp"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "xamarin",
+    "altnames": [
+      "microsoft-xamarin"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "xcode",
+    "altnames": [
+      "apple-xcode"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "xd",
+    "altnames": [
+      "adobexd",
+      "adobe-xd"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "xml",
+    "altnames": [
+      "extensible-markup-language"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain",
+        "line"
+      ]
+    }
+  },
+  {
+    "name": "yaml",
+    "altnames": [
+      "yaml-aint-markup-language"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "yarn",
+    "altnames": [
+      "yarn-package-manager"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "yii",
+    "altnames": [
+      "yii-framework"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "yugabytedb",
+    "altnames": [
+      "yugabyte-db",
+      "yugabyte"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "yunohost",
+    "altnames": [
+      "yuno-host"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  },
+  {
+    "name": "zend",
+    "altnames": [
+      "zend-framework",
+      "laminas"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "zig",
+    "altnames": [
+      "ziglang",
+      "zig-lang"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "zsh",
+    "altnames": [
+      "z-shell"
+    ],
+    "versions": {
+      "svg": [
+        "original",
+        "original-wordmark",
+        "plain",
+        "plain-wordmark",
+        "line",
+        "line-wordmark"
+      ]
+    }
+  },
+  {
+    "name": "zustand",
+    "altnames": [],
+    "versions": {
+      "svg": [
+        "original",
+        "plain"
+      ]
+    }
+  }
+]
